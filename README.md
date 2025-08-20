@@ -20,7 +20,7 @@
 - 👨‍💻 Explore my full project portfolio at [Steffin_Portfolio](https://www.datascienceportfol.io/steffin)🔗
 - 💬 Ask me about **Data Science, Analysis, AI, ML**
 - 📫 Reach me at **steffinthomas12@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MN6q5aGy-c-rTgUqYG3fIlB8PYbk08qJ/view?usp=sharing)🔗
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t988bajZCKjp_GaFjn3eJLFHOpkf4vj8/view?usp=sharing)🔗
 - ⚡ Fun fact: **I don’t just analyze data — I negotiate with it until it tells the truth 😉😎**
 
 ---
