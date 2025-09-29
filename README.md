@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Something cool and fun 😁**
 - 🌱 I’m currently learning **Advanced Analytics, Machine Learning, AI**
-- 👨‍💻 Explore my full project portfolio at [Steffin_Portfolio](https://www.datascienceportfol.io/steffin)🔗
+- 👨‍💻 Explore my full project portfolio at [Steffin_Portfolio](https://www.steffinthomas.com)🔗
 - 💬 Ask me about **Data Science, Analysis, AI, ML**
 - 📫 Reach me at **steffinthomas12@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t988bajZCKjp_GaFjn3eJLFHOpkf4vj8/view?usp=sharing)🔗
