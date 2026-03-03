@@ -62,16 +62,14 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=steffin12-git&show_icons=true&theme=radical" alt="steffin12-git stats" width="300"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffin12-git&layout=compact&theme=radical" alt="steffin12-git top langs" width="300"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=steffin12-git&theme=radical" alt="steffin12-git streak stats" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=steffin12-git&show_icons=true&theme=radical&cache_seconds=1800" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffin12-git&layout=compact&theme=radical&cache_seconds=1800" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=steffin12-git&theme=radical" width="400"/>
+</p>
