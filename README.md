@@ -63,7 +63,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="135em" src="https://github-readme-stats-coral-nine-93.vercel.app/api?username=steffin12-git&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="145em" src="https://streak-stats.demolab.com?user=steffin12-git&theme=tokyonight"/>
-  <img height="135em" src="https://github-readme-stats-coral-nine-93.vercel.app/api/top-langs/?username=steffin12-git&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+  <img height="115em" src="https://github-readme-stats-coral-nine-93.vercel.app/api?username=steffin12-git&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="135em" src="https://streak-stats.demolab.com?user=steffin12-git&theme=tokyonight"/>
+  <img height="115em" src="https://github-readme-stats-coral-nine-93.vercel.app/api/top-langs/?username=steffin12-git&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
 </p>
