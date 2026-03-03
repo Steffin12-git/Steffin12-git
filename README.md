@@ -63,13 +63,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steffin12-git&show_icons=true&theme=radical&cache_seconds=1800" width="400"/>
+  <img src="https://github-readme-stats-coral-nine-93.vercel.app/api?username=steffin12-git&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffin12-git&layout=compact&theme=radical&cache_seconds=1800" width="400"/>
+  <img src="https://github-readme-stats-coral-nine-93.vercel.app/api/top-langs/?username=steffin12-git&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=steffin12-git&theme=radical" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=steffin12-git&theme=tokyonight"/>
 </p>
