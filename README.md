@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steffin Thomas</h1>
-<h3 align="center">An Aspiring Data Analyst from Kerala, India</h3>
+<h3 align="center">Data Engineer | Analyst | Data Enthusiast from Kerala, India 🇮🇳</h3>
 
+<!-- Typing animation -->
 <!-- Typing animation -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;ETL+Pipelines,+Forecasting+%26+Predictive+Analysis;Data+Visualization+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+Analytics+%7C+Cloud;Building+ETL+Pipelines+%7C+Real-time+Data+Systems;Turning+Raw+Data+into+Business+Decisions;SQL+%7C+Python+%7C+BigQuery+%7C+Power+BI;Learning+Something+New+Every+Day" />
 </a>
 </p>
 
@@ -14,50 +15,116 @@
 </p>
 
 
+---
 
-- 🔭 I’m currently working on **Something cool and fun 😁**
-- 🌱 I’m currently learning **Advanced Analytics, Machine Learning, AI**
-- 👨‍💻 Explore my full project portfolio at [Steffin_Portfolio](https://www.steffinthomas.com)🔗
-- 💬 Ask me about **Data Science, Analysis, AI, ML**
-- 📫 Reach me at **steffinthomas12@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t988bajZCKjp_GaFjn3eJLFHOpkf4vj8/view?usp=sharing)🔗
-- ⚡ Fun fact: **I don’t just analyze data — I negotiate with it until it tells the truth 😉😎**
+### 🚀 About Me
+
+- 🔭 I’m currently working on **end-to-end data systems (ETL, pipelines, analytics, BI)**
+- ⚙️ My role says **Data Engineer**, but I work across:
+  - Data Engineering 🏗️  
+  - Data Analysis 📊  
+  - Data Science 🤖  
+- ☁️ Working with **Cloud-based data platforms (BigQuery, pipelines, orchestration)**
+- 📈 Building **real-world data pipelines, dashboards & analytics systems**
+- 🧠 Always learning **better ways to move, transform, and understand data**
+
+---
+### 🧠 What I Actually Do (Real Work 😄)
+
+- Build **ETL pipelines from raw → analytics-ready data**
+- Work with **Amazon data Stream data**
+- Design **optimized data models for BI tools**
+- Handle **data ingestion, transformation, aggregation**
+- Create **hourly + range-based analytics systems**
+- Work on **data quality, deduplication, validation**
+- Build **automated pipelines using orchestration tools**
+- Optimize queries for **performance & scalability**
+
+---  
+
+### 🌱 Currently Learning
+
+- Advanced Data Engineering Patterns  
+- Scalable Data Pipelines & Architecture  
+- Machine Learning (practical use in data workflows)  
+- Real-time & streaming systems  
+- Cloud-native data engineering  
+
+---
+
+### ⚡ Fun Stuff
+
+- 🧩 I don’t just analyze data — I **debug its personality**
+- 🕵️ Sometimes data is wrong… I **interrogate it until it confesses**
+- ⚡ Turning messy data into insights feels like **solving a puzzle**
+- 🚀 I enjoy building systems that make data **just work automatically**
+- ☕ Most pipelines are built with **SQL + Python + coffee**
+
+---
+
+### 👨‍💻 Portfolio & Contact
+
+- 🌐 Portfolio: [Steffin_Portfolio](https://www.steffinthomas.com)
+- 📫 Email: **steffinthomas12@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1t988bajZCKjp_GaFjn3eJLFHOpkf4vj8/view?usp=sharing)
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/steffin-thomas-b85549260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steffin-thomas-b85549260" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/steffinthomas12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="steffinthomas12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/steffinthomas12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="steffinthomas12" height="30" width="40" /></a>
-<a href="https://kaggle.com/steffinthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="steffinthomas" height="30" width="40" /></a>
-<a href="https://instagram.com/steffinoo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steffinoo__" height="30" width="40" /></a>
-<a href="https://fb.com/steffin.thomas.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="steffin.thomas.5" height="30" width="40" /></a>
-<a href="https://twitter.com/steffinthomas12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (formerly Twitter)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/steffin-thomas-b85549260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/steffinthomas12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/steffinthomas12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/steffinthomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/steffinthomas12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="40" /></a>
 </p>
+
 ---
 
 ### ⚒️ Tech Stack  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-3B4D93?style=for-the-badge&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
 
----
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<!-- Cloud & Data -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50"/>
+
+<!-- Analytics & Processing -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+
+<!-- Dev & Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+
+<!-- Web (your bonus skills) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+
+</p>
+
+<p align="center">
+
+<!-- Tools without clean icons -->
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dagster-000000?style=flat"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ETL-Pipelines-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-orange?style=flat"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat"/>
+</p>
 
 
 ### 📊 GitHub Analytics
